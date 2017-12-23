@@ -23,7 +23,9 @@
     "index.js",
     "typings/index.d.ts"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "chalk": "^2.3.0"
+  },
   "devDependencies": {
     "@types/node": "^7.0.48",
     "should": "^11.2.1",
